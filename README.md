@@ -1,6 +1,6 @@
 # MACHINE-TimelessCow
 ### Everything necessary in order to download and solve the TimelessCow machine from Project G.A.L.A.H.A.D.
-#############################################################################################
+#######################################################################################
 
 **To aid in solving the TimelessCow machine you are to be provided with a short description of its owner. Utilize this text to gain solid footing for your hacking endeavours:**
 
